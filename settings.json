@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.rulers": [80, 120],
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "400",
+    "editor.fontLigatures": true,
+
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+}
